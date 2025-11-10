@@ -17,13 +17,15 @@ app/ (Ejecución y Control): Contiene la clase principal (Main.java) que inicia 
 
 model/ (Clases de Dominio): Define la estructura de datos del negocio. Aquí se encuentran las clases de entidades como Persona.java, Empleado.java, Direccion.java.
 
-  📁 src/cl/salmontt
-  ├── app/           # Clase principal con el método main
-  │   └── Main.java  
-  ├── model/         # Clases de dominio (Persona, Empleado, Direccion)
-  │   ├── Persona.java
-  │   ├── Empleado.java
-  │   └── Direccion.java
+```
+📁 src/cl/salmontt
+├── app/         # Clase principal con el método main
+│   └── Main.java
+└── model/       # Clases de dominio
+    ├── Persona.java
+    ├── Empleado.java
+    └── Direccion.java
+```
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clonar el repositorio desde GitHub:
