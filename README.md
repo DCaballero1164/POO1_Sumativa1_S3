@@ -29,6 +29,7 @@ model/ (Clases de Dominio): Define la estructura de datos del negocio. Aquí se 
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clonar el repositorio desde GitHub:
+
 git clone https://github.com/DCaballero1164/POO1_Sumativa1_S3
 
 Abrir el proyecto en IntelliJ IDEA. (Utilizar JDK 17 o superior)
