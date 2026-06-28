@@ -1,6 +1,6 @@
-# 🧠 Sumativa 1 - Semana 3 – Desarrollo Orientado a Objetos I
+# 🧠 AS1 - Semana 3 – Desarrollo Orientado a Objetos I
 
-👤 Autor del proyecto
+👤
 
 Nombre completo: Daniel Francisco Caballero Salas
 
